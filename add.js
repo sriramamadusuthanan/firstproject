@@ -1,4 +1,4 @@
-const num1=55;
+const num1=5;
 const num2=99;
 
 const sum=num1+num2;
